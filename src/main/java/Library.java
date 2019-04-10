@@ -6,6 +6,7 @@ public class Library {
 		Library lib = new Library();
 		if (lib.someLibraryMethod())
 			System.out.println("I dont understand either");
+			System.out.println("I dont understand anything");
 	}
     public boolean someLibraryMethod() {
         return true;
