@@ -10,4 +10,7 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
+    public boolean work() {
+    	return false;
+    }
 }
